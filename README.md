@@ -1,5 +1,6 @@
 SE-Assignment-2
 Assignment: Introduction to Software Engineering Instructions: Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
+
 Questions: Define Software Engineering: is an engineering branch associated with development of software product using well-defined scientific principles, methods and procedures. The outcome of software engineering is an efficient and reliable software product.
 What is software engineering, and how does it differ from traditional programming? Software Development Life Cycle (SDLC):
 Software engineering is a broader discipline that encompasses various activities related to software development, including planning, designing, coding, testing, deployment, and maintenance. while SDLC SDLC is a structured process used specifically for designing, developing, testing, and maintaining software and it consists of 6 phases
